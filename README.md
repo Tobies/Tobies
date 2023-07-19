@@ -3,7 +3,7 @@
 
 <h4 align="left">Socials</h3>
 
-<a align="center" href="https://linkedin.com/in/roei oanunu" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/30/linkedin.png" alt="roei oanunu" height="30" width="30" /></a>
+<a align="center" href="https://linkedin.com/in/roei-oanunu-b10666281/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/30/linkedin.png" alt="roei oanunu" height="30" width="30" /></a>
 <a align="center" href="https://discord.gg/tobiesroei" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/discord-logo.png" alt="tobiesroei" height="30" width="30" /></a>
 
 
